@@ -38,7 +38,6 @@ envio_automatico/
 ├── clientes.xlsx           # Archivo Excel con los destinatarios
 ├── Documentos/             # Carpeta con los documentos a enviar
 ├── requirements.txt        # (opcional) Dependencias
-└── img/                    # Carpeta con la imagen de vista previa
 ```
 
 ---
