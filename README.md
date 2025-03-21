@@ -28,9 +28,6 @@ Automatiza el envío de documentos personalizados por correo electrónico sin us
 Aquí tienes un ejemplo de cómo se ve la interfaz gráfica en ejecución:
 
 ![Vista previa de la app](imagen/DEMO.png)
-
-> ⚠️ Sube una captura de pantalla al repositorio y reemplaza `ruta/a/la/imagen.png` con la ruta real (por ejemplo: `img/vista-previa.png`)
-
 ---
 
 ## 📁 Estructura recomendada
